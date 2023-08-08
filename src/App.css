@@ -1,0 +1,32 @@
+.btn-style {
+  outline: none;
+  width: 200px;
+  color: white;
+  border-radius: 8px;
+  padding: 5px;
+  background-color: #224f61 !important;
+}
+.input-style {
+  outline-color: #224f61 !important;
+}
+.contain {
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 15px 0;
+  background-color: #fff;
+}
+.answer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.toast-message {
+  text-align: right;
+}
+.accordion-button:not(.collapsed) {
+  background-color: #ccc !important;
+  font-weight: bold;
+}
