@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QApp/static/css/main.c66a8c56.css",
+    "main.js": "/QApp/static/js/main.be9a6bc4.js",
+    "index.html": "/QApp/index.html",
+    "main.c66a8c56.css.map": "/QApp/static/css/main.c66a8c56.css.map",
+    "main.be9a6bc4.js.map": "/QApp/static/js/main.be9a6bc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c66a8c56.css",
+    "static/js/main.be9a6bc4.js"
+  ]
+}
